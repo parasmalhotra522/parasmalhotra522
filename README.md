@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a full stack developer with 3.5 years of experience specializing in JavaScript frameworks and technologies like React, Angular, Js, node, express etc. <br>I’m looking for opportunities in the software market here in Canada.<br>I’m currently learning AWS. 
+I'm a full stack developer with 3.5 years of experience specializing in JavaScript frameworks and technologies like React, Angular, Js, node, express etc. <br>I’m looking for opportunities in the software market here in Canada.
 
 
 ## 🌐 Socials:
